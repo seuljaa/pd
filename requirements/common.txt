@@ -1,0 +1,6 @@
+Django
+mysqlclient
+django-dotenv
+pillow
+gunicorn
+django-debug-toolbar
